@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Thanks for seeing me
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Name: Shreehari C R
+Mail ID: https: shreehari000@gmail.com
+Author: Shreehari C R
+
